@@ -2,7 +2,7 @@
   "app_name": "B-and-A - An Open, Real-time, Scalable A/B Testing Backend Service",
   "description": "An open, real-time, scalable and redis based A/B Testing Backend Service using RedisJSON + RediSearch + RedisTimeSeries + RedisGraph",
   "rank": "58",
-  "type": "Full-app",
+  "type": "Full app",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/banda",
   "download_url": "https://github.com/redis-developer/banda/archive/refs/heads/main.zip",
