@@ -1,24 +1,32 @@
 {
-  "app_name": "B-and-A",
-  "description": "An open, real-time, scalable and redis based A/B Testing Backend Service",
-  "hidden": true,
-  "rank": 27,
+  "app_name": "B-and-A - An Open, Real-time, Scalable A/B Testing Backend Service",
+  "description": "An open, real-time, scalable and redis based A/B Testing Backend Service using RedisJSON + RediSearch + RedisTimeSeries + RedisGraph",
+  "rank": 58,
   "type": "Backend Micro Service",
   "contributed_by": "Community",
-  "repo_url": "https://github.com/xmppjingle/banda",
-  "download_url": "https://github.com/xmppjingle/banda/archive/refs/heads/main.zip",
+  "repo_url": "https://github.com/redis-developer/banda",
+  "download_url": "https://github.com/redis-developer/banda/archive/refs/heads/main.zip",
   "hosted_url": "",
   "quick_deploy": "false",
-  "deploy_buttons": [],
+  "quick_deploy": "true",
+  "deploy_buttons": [
+        {
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/Reeko-Slack-Bot.git" 
+        },
+        {
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/Reeko-Slack-Bot.git" 
+        }
+    ],
+    
   "language": ["Kotlin", "Spring", "lettuce"],
   "redis_commands": ["SETEX"],
   "redis_features": ["caching"],
   "redis_modules": ["RediJSON", "RediSearch", "RedisTimeseries", "RedisGraph"],
   "app_image_urls": [
-    "https://github.com/xmppjingle/banda/raw/main/thumb.png"
+    "https://github.com/redis-developer/banda/raw/main/thumb.png"
   ],
   "youtube_url": "https://youtu.be/BKadNQ0-sKs",
   "special_tags": ["Hackathon"],
   "verticals": ["Mobile", "Analytics"],
-  "markdown": "https://github.com/xmppjingle/banda/raw/main/README.md"
+  "markdown": "https://raw.githubusercontent.com/redis-developer/banda/main/README.md"
 }
