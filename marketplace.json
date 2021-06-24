@@ -11,10 +11,10 @@
   "quick_deploy": "true",
   "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/Reeko-Slack-Bot.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/banda.git" 
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/Reeko-Slack-Bot.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/banda.git" 
         }
     ],
     
