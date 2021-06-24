@@ -7,7 +7,6 @@
   "repo_url": "https://github.com/redis-developer/banda",
   "download_url": "https://github.com/redis-developer/banda/archive/refs/heads/main.zip",
   "hosted_url": "",
-  "quick_deploy": "false",
   "quick_deploy": "true",
   "deploy_buttons": [
         {
