@@ -24,7 +24,7 @@
   "app_image_urls": [
     "https://github.com/redis-developer/banda/raw/main/thumb.png"
   ],
-  "youtube_url": "https://youtu.be/BKadNQ0-sKs",
+  "youtube_url": "https://www.youtube.com/watch?v=BKadNQ0-sKs",
   "special_tags": ["Hackathon"],
   "verticals": ["Mobile", "Analytics"],
   "markdown": "https://raw.githubusercontent.com/redis-developer/banda/main/README.md"
