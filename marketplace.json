@@ -5,6 +5,7 @@
   "type": "Full app",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/banda",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/banda/master/images/app_preview_image.png",
   "download_url": "https://github.com/redis-developer/banda/archive/refs/heads/main.zip",
   "hosted_url": "",
   "quick_deploy": "false",
