@@ -21,7 +21,7 @@
   "language": ["Kotlin", "Spring", "lettuce"],
   "redis_commands": ["SETEX"],
   "redis_features": ["caching"],
-  "redis_modules": ["RedisJSON", "RediSearch", "RedisTimeseries", "RedisGraph"],
+  "redis_modules": ["RedisJSON", "RediSearch", "RedisTimeSeries", "RedisGraph"],
   "app_image_urls": [
     "https://github.com/redis-developer/banda/raw/main/thumb.png"
   ],
